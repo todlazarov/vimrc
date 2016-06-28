@@ -1,1 +1,0 @@
-/home/todl/.vim/janus/vim/vimrc
